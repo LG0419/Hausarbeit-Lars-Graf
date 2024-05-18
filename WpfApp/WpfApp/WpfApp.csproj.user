@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Seiten\Angaben_zur_Zahlung.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Seiten\Erstellet_Vorschläge.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Seiten\Kundendaten.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Seiten\Loggin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Seiten\Tier.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Seiten\Zur_Versicherung.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

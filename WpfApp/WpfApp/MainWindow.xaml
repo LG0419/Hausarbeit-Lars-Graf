@@ -1,0 +1,33 @@
+﻿<Window x:Class="WpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="1066">
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.4*"/>
+            <RowDefinition Height="0.015*"/>
+            <RowDefinition/>
+
+        </Grid.RowDefinitions>
+        <Grid Background="#8C4">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.25*"/>
+                <ColumnDefinition />
+
+            </Grid.ColumnDefinitions>
+            <Label Content="Pfefferminzia-Tierversicherungs AG" Grid.Column="1" FontSize="36" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="#FF555555" FontFamily="Cooper Black"/>
+            <Image Source="/f.png"/>
+
+        </Grid>
+        <Canvas Background="#482" Grid.Row="1"/>
+        <Frame x:Name="Main" Grid.Row="2" NavigationUIVisibility="Hidden">
+
+
+        </Frame>
+    </Grid>
+</Window>

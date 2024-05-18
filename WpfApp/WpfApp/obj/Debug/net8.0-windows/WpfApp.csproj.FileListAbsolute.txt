@@ -1,0 +1,130 @@
+C:\Users\larsg\source\repos\WpfApp\WpfApp\bin\Debug\net8.0-windows\WpfApp.exe
+C:\Users\larsg\source\repos\WpfApp\WpfApp\bin\Debug\net8.0-windows\WpfApp.deps.json
+C:\Users\larsg\source\repos\WpfApp\WpfApp\bin\Debug\net8.0-windows\WpfApp.runtimeconfig.json
+C:\Users\larsg\source\repos\WpfApp\WpfApp\bin\Debug\net8.0-windows\WpfApp.dll
+C:\Users\larsg\source\repos\WpfApp\WpfApp\bin\Debug\net8.0-windows\WpfApp.pdb
+C:\Users\larsg\source\repos\WpfApp\WpfApp\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\larsg\source\repos\WpfApp\WpfApp\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\larsg\source\repos\WpfApp\WpfApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\larsg\source\repos\WpfApp\WpfApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\larsg\source\repos\WpfApp\WpfApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\larsg\source\repos\WpfApp\WpfApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\larsg\source\repos\WpfApp\WpfApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\larsg\source\repos\WpfApp\WpfApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\larsg\source\repos\WpfApp\WpfApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\larsg\source\repos\WpfApp\WpfApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\larsg\source\repos\WpfApp\WpfApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\larsg\source\repos\WpfApp\WpfApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\larsg\source\repos\WpfApp\WpfApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\larsg\source\repos\WpfApp\WpfApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\larsg\source\repos\WpfApp\WpfApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\larsg\source\repos\WpfApp\WpfApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\larsg\source\repos\WpfApp\WpfApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\larsg\source\repos\WpfApp\WpfApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\larsg\source\repos\WpfApp\WpfApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\larsg\source\repos\WpfApp\WpfApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\larsg\source\repos\WpfApp\WpfApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\larsg\source\repos\WpfApp\WpfApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\larsg\source\repos\WpfApp\WpfApp\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\larsg\source\repos\WpfApp\WpfApp\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\larsg\source\repos\WpfApp\WpfApp\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\larsg\source\repos\WpfApp\WpfApp\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\larsg\source\repos\WpfApp\WpfApp\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\larsg\source\repos\WpfApp\WpfApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\larsg\source\repos\WpfApp\WpfApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\larsg\source\repos\WpfApp\WpfApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\larsg\source\repos\WpfApp\WpfApp\bin\Debug\net8.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\larsg\source\repos\WpfApp\WpfApp\obj\Debug\net8.0-windows\WpfApp.csproj.AssemblyReference.cache
+C:\Users\larsg\source\repos\WpfApp\WpfApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\larsg\source\repos\WpfApp\WpfApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\larsg\source\repos\WpfApp\WpfApp\obj\Debug\net8.0-windows\WpfApp_MarkupCompile.cache
+C:\Users\larsg\source\repos\WpfApp\WpfApp\obj\Debug\net8.0-windows\WpfApp_MarkupCompile.lref
+C:\Users\larsg\source\repos\WpfApp\WpfApp\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\larsg\source\repos\WpfApp\WpfApp\obj\Debug\net8.0-windows\WpfApp.g.resources
+C:\Users\larsg\source\repos\WpfApp\WpfApp\obj\Debug\net8.0-windows\WpfApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\larsg\source\repos\WpfApp\WpfApp\obj\Debug\net8.0-windows\WpfApp.AssemblyInfoInputs.cache
+C:\Users\larsg\source\repos\WpfApp\WpfApp\obj\Debug\net8.0-windows\WpfApp.AssemblyInfo.cs
+C:\Users\larsg\source\repos\WpfApp\WpfApp\obj\Debug\net8.0-windows\WpfApp.csproj.CoreCompileInputs.cache
+C:\Users\larsg\source\repos\WpfApp\WpfApp\obj\Debug\net8.0-windows\WpfApp.csproj.Up2Date
+C:\Users\larsg\source\repos\WpfApp\WpfApp\obj\Debug\net8.0-windows\WpfApp.dll
+C:\Users\larsg\source\repos\WpfApp\WpfApp\obj\Debug\net8.0-windows\refint\WpfApp.dll
+C:\Users\larsg\source\repos\WpfApp\WpfApp\obj\Debug\net8.0-windows\WpfApp.pdb
+C:\Users\larsg\source\repos\WpfApp\WpfApp\obj\Debug\net8.0-windows\WpfApp.genruntimeconfig.cache
+C:\Users\larsg\source\repos\WpfApp\WpfApp\obj\Debug\net8.0-windows\ref\WpfApp.dll
+C:\Users\larsg\source\repos\WpfApp\WpfApp\obj\Debug\net8.0-windows\Seiten\Angaben_zur_Zahlung.g.cs
+C:\Users\larsg\source\repos\WpfApp\WpfApp\obj\Debug\net8.0-windows\Seiten\Erstellet_Vorschläge.g.cs
+C:\Users\larsg\source\repos\WpfApp\WpfApp\obj\Debug\net8.0-windows\Seiten\Kundendaten.g.cs
+C:\Users\larsg\source\repos\WpfApp\WpfApp\obj\Debug\net8.0-windows\Seiten\Loggin.g.cs
+C:\Users\larsg\source\repos\WpfApp\WpfApp\obj\Debug\net8.0-windows\Seiten\Tier.g.cs
+C:\Users\larsg\source\repos\WpfApp\WpfApp\obj\Debug\net8.0-windows\Seiten\Zur_Versicherung.g.cs
+C:\Users\larsg\source\repos\WpfApp\WpfApp\obj\Debug\net8.0-windows\Seiten\Angaben_zur_Zahlung.baml
+C:\Users\larsg\source\repos\WpfApp\WpfApp\obj\Debug\net8.0-windows\Seiten\Erstellet_Vorschläge.baml
+C:\Users\larsg\source\repos\WpfApp\WpfApp\obj\Debug\net8.0-windows\Seiten\Kundendaten.baml
+C:\Users\larsg\source\repos\WpfApp\WpfApp\obj\Debug\net8.0-windows\Seiten\Loggin.baml
+C:\Users\larsg\source\repos\WpfApp\WpfApp\obj\Debug\net8.0-windows\Seiten\Tier.baml
+C:\Users\larsg\source\repos\WpfApp\WpfApp\obj\Debug\net8.0-windows\Seiten\Zur_Versicherung.baml
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\bin\Debug\net8.0-windows\WpfApp.exe
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\bin\Debug\net8.0-windows\WpfApp.deps.json
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\bin\Debug\net8.0-windows\WpfApp.runtimeconfig.json
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\bin\Debug\net8.0-windows\WpfApp.dll
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\bin\Debug\net8.0-windows\WpfApp.pdb
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\bin\Debug\net8.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\obj\Debug\net8.0-windows\WpfApp.csproj.AssemblyReference.cache
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\obj\Debug\net8.0-windows\Seiten\Angaben_zur_Zahlung.g.cs
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\obj\Debug\net8.0-windows\Seiten\Erstellet_Vorschläge.g.cs
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\obj\Debug\net8.0-windows\Seiten\Kundendaten.g.cs
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\obj\Debug\net8.0-windows\Seiten\Loggin.g.cs
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\obj\Debug\net8.0-windows\Seiten\Tier.g.cs
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\obj\Debug\net8.0-windows\Seiten\Zur_Versicherung.g.cs
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\obj\Debug\net8.0-windows\WpfApp_MarkupCompile.cache
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\obj\Debug\net8.0-windows\WpfApp_MarkupCompile.lref
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\obj\Debug\net8.0-windows\Seiten\Angaben_zur_Zahlung.baml
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\obj\Debug\net8.0-windows\Seiten\Erstellet_Vorschläge.baml
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\obj\Debug\net8.0-windows\Seiten\Kundendaten.baml
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\obj\Debug\net8.0-windows\Seiten\Loggin.baml
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\obj\Debug\net8.0-windows\Seiten\Tier.baml
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\obj\Debug\net8.0-windows\Seiten\Zur_Versicherung.baml
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\obj\Debug\net8.0-windows\WpfApp.g.resources
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\obj\Debug\net8.0-windows\WpfApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\obj\Debug\net8.0-windows\WpfApp.AssemblyInfoInputs.cache
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\obj\Debug\net8.0-windows\WpfApp.AssemblyInfo.cs
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\obj\Debug\net8.0-windows\WpfApp.csproj.CoreCompileInputs.cache
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\obj\Debug\net8.0-windows\WpfApp.csproj.Up2Date
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\obj\Debug\net8.0-windows\WpfApp.dll
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\obj\Debug\net8.0-windows\refint\WpfApp.dll
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\obj\Debug\net8.0-windows\WpfApp.pdb
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\obj\Debug\net8.0-windows\WpfApp.genruntimeconfig.cache
+C:\Users\larsg\Desktop\Hausarbeit Lars Graf\WpfApp\WpfApp\obj\Debug\net8.0-windows\ref\WpfApp.dll

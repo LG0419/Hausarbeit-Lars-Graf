@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\larsg\\Desktop\\Hausarbeit Lars Graf\\WpfApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B722C1A-3C95-487D-A5E8-A8D579E914C5}|WpfApp\\WpfApp.csproj|c:\\users\\larsg\\desktop\\hausarbeit lars graf\\wpfapp\\wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9B722C1A-3C95-487D-A5E8-A8D579E914C5}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B722C1A-3C95-487D-A5E8-A8D579E914C5}|WpfApp\\WpfApp.csproj|c:\\users\\larsg\\desktop\\hausarbeit lars graf\\wpfapp\\wpfapp\\kunden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B722C1A-3C95-487D-A5E8-A8D579E914C5}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\kunden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B722C1A-3C95-487D-A5E8-A8D579E914C5}|WpfApp\\WpfApp.csproj|c:\\users\\larsg\\desktop\\hausarbeit lars graf\\wpfapp\\wpfapp\\seiten\\kundendaten.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B722C1A-3C95-487D-A5E8-A8D579E914C5}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\seiten\\kundendaten.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B722C1A-3C95-487D-A5E8-A8D579E914C5}|WpfApp\\WpfApp.csproj|c:\\users\\larsg\\desktop\\hausarbeit lars graf\\wpfapp\\wpfapp\\seiten\\kundendaten.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9B722C1A-3C95-487D-A5E8-A8D579E914C5}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\seiten\\kundendaten.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B722C1A-3C95-487D-A5E8-A8D579E914C5}|WpfApp\\WpfApp.csproj|c:\\users\\larsg\\desktop\\hausarbeit lars graf\\wpfapp\\wpfapp\\seiten\\zur_versicherung.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B722C1A-3C95-487D-A5E8-A8D579E914C5}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\seiten\\zur_versicherung.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B722C1A-3C95-487D-A5E8-A8D579E914C5}|WpfApp\\WpfApp.csproj|c:\\users\\larsg\\desktop\\hausarbeit lars graf\\wpfapp\\wpfapp\\seiten\\angaben_zur_zahlung.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B722C1A-3C95-487D-A5E8-A8D579E914C5}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\seiten\\angaben_zur_zahlung.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\larsg\\Desktop\\Hausarbeit Lars Graf\\WpfApp\\WpfApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\larsg\\Desktop\\Hausarbeit Lars Graf\\WpfApp\\WpfApp\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-18T20:42:53.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kundendaten.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\larsg\\Desktop\\Hausarbeit Lars Graf\\WpfApp\\WpfApp\\Seiten\\Kundendaten.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp\\Seiten\\Kundendaten.xaml.cs",
+              "ToolTip": "C:\\Users\\larsg\\Desktop\\Hausarbeit Lars Graf\\WpfApp\\WpfApp\\Seiten\\Kundendaten.xaml.cs",
+              "RelativeToolTip": "WpfApp\\Seiten\\Kundendaten.xaml.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwDoAAACLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:24:08.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Kundendaten.xaml",
+              "DocumentMoniker": "C:\\Users\\larsg\\Desktop\\Hausarbeit Lars Graf\\WpfApp\\WpfApp\\Seiten\\Kundendaten.xaml",
+              "RelativeDocumentMoniker": "WpfApp\\Seiten\\Kundendaten.xaml",
+              "ToolTip": "C:\\Users\\larsg\\Desktop\\Hausarbeit Lars Graf\\WpfApp\\WpfApp\\Seiten\\Kundendaten.xaml",
+              "RelativeToolTip": "WpfApp\\Seiten\\Kundendaten.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-18T20:24:07.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Zur_Versicherung.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\larsg\\Desktop\\Hausarbeit Lars Graf\\WpfApp\\WpfApp\\Seiten\\Zur_Versicherung.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp\\Seiten\\Zur_Versicherung.xaml.cs",
+              "ToolTip": "C:\\Users\\larsg\\Desktop\\Hausarbeit Lars Graf\\WpfApp\\WpfApp\\Seiten\\Zur_Versicherung.xaml.cs",
+              "RelativeToolTip": "WpfApp\\Seiten\\Zur_Versicherung.xaml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAowD4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:04:22.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kunden.cs",
+              "DocumentMoniker": "C:\\Users\\larsg\\Desktop\\Hausarbeit Lars Graf\\WpfApp\\WpfApp\\Kunden.cs",
+              "RelativeDocumentMoniker": "WpfApp\\Kunden.cs",
+              "ToolTip": "C:\\Users\\larsg\\Desktop\\Hausarbeit Lars Graf\\WpfApp\\WpfApp\\Kunden.cs",
+              "RelativeToolTip": "WpfApp\\Kunden.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T19:18:50.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Angaben_zur_Zahlung.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\larsg\\Desktop\\Hausarbeit Lars Graf\\WpfApp\\WpfApp\\Seiten\\Angaben_zur_Zahlung.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp\\Seiten\\Angaben_zur_Zahlung.xaml.cs",
+              "ToolTip": "C:\\Users\\larsg\\Desktop\\Hausarbeit Lars Graf\\WpfApp\\WpfApp\\Seiten\\Angaben_zur_Zahlung.xaml.cs",
+              "RelativeToolTip": "WpfApp\\Seiten\\Angaben_zur_Zahlung.xaml.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAcwFgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T17:45:59.716Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
